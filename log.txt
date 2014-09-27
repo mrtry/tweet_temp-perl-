@@ -1,0 +1,2 @@
+RasPi CPU Temp = 40.084
+501: Protocol scheme https is not supported (LWP::Protocol::https not installed)
