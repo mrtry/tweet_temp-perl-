@@ -10,10 +10,10 @@ print $dt."\n";
 
 # --- --- tweet --- --- #
 my $nt = Net::Twitter::Lite::WithAPIv1_1->new(
-  consumer_key        => 'mDQMiMN9DCx1NUN58EVY1Rn8y',
-  consumer_secret     => 'gBds1272nouEEud3n2HS3ekg9FhSNwoBawKf7dEpEHAnVZfEqg',
-  access_token        => '302578061-kwTNbycdbAJOaT66HPt9yJmLSIaqd0mPk4ja0nCS',
-  access_token_secret => '7blXYY1hktigAaAwuDFRNTvJfpSTAUfEaL8RYvItTR94o',
+  consumer_key        => 'your_app_key',
+  consumer_secret     => 'your_app_secret',
+  access_token        => 'your_access_token',
+  access_token_secret => 'your_access_token_secret',
   ssl                 => '1',
 );
 
