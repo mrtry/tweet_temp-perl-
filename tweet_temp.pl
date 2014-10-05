@@ -27,4 +27,4 @@ print $str;
 my $result = $nt->update($str);
 
 #print Dumper $result;
-print 'success!!';
+print 'success!!'."\n";
